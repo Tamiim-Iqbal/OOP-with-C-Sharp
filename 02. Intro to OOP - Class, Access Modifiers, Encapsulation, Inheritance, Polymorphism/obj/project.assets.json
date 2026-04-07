@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP/2. Intro to OOP.csproj",
+      "projectUniqueName": "/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP - Class, Access Modifiers, Encapsulation, Inheritance, Polymorphism/2. Intro to OOP.csproj",
       "projectName": "2. Intro to OOP",
-      "projectPath": "/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP/2. Intro to OOP.csproj",
+      "projectPath": "/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP - Class, Access Modifiers, Encapsulation, Inheritance, Polymorphism/2. Intro to OOP.csproj",
       "packagesPath": "/Users/tamimiqbal/.nuget/packages/",
-      "outputPath": "/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP/obj/",
+      "outputPath": "/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP - Class, Access Modifiers, Encapsulation, Inheritance, Polymorphism/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tamimiqbal/.nuget/NuGet/NuGet.Config"

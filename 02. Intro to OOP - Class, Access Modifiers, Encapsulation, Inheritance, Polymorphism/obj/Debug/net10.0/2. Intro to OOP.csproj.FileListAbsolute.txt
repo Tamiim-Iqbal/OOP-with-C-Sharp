@@ -13,3 +13,18 @@
 /Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP/obj/Debug/net10.0/2. Intro to OOP.pdb
 /Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP/obj/Debug/net10.0/2. Intro to OOP.genruntimeconfig.cache
 /Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP/obj/Debug/net10.0/ref/2. Intro to OOP.dll
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP - Class, Access Modifiers, Encapsulation, Inheritance, Polymorphism/bin/Debug/net10.0/2. Intro to OOP
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP - Class, Access Modifiers, Encapsulation, Inheritance, Polymorphism/bin/Debug/net10.0/2. Intro to OOP.deps.json
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP - Class, Access Modifiers, Encapsulation, Inheritance, Polymorphism/bin/Debug/net10.0/2. Intro to OOP.runtimeconfig.json
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP - Class, Access Modifiers, Encapsulation, Inheritance, Polymorphism/bin/Debug/net10.0/2. Intro to OOP.dll
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP - Class, Access Modifiers, Encapsulation, Inheritance, Polymorphism/bin/Debug/net10.0/2. Intro to OOP.pdb
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP - Class, Access Modifiers, Encapsulation, Inheritance, Polymorphism/obj/Debug/net10.0/2. Intro to OOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP - Class, Access Modifiers, Encapsulation, Inheritance, Polymorphism/obj/Debug/net10.0/2. Intro to OOP.AssemblyInfoInputs.cache
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP - Class, Access Modifiers, Encapsulation, Inheritance, Polymorphism/obj/Debug/net10.0/2. Intro to OOP.AssemblyInfo.cs
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP - Class, Access Modifiers, Encapsulation, Inheritance, Polymorphism/obj/Debug/net10.0/2. Intro to OOP.csproj.CoreCompileInputs.cache
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP - Class, Access Modifiers, Encapsulation, Inheritance, Polymorphism/obj/Debug/net10.0/2. Intro to OOP.sourcelink.json
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP - Class, Access Modifiers, Encapsulation, Inheritance, Polymorphism/obj/Debug/net10.0/2. Intro to OOP.dll
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP - Class, Access Modifiers, Encapsulation, Inheritance, Polymorphism/obj/Debug/net10.0/refint/2. Intro to OOP.dll
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP - Class, Access Modifiers, Encapsulation, Inheritance, Polymorphism/obj/Debug/net10.0/2. Intro to OOP.pdb
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP - Class, Access Modifiers, Encapsulation, Inheritance, Polymorphism/obj/Debug/net10.0/2. Intro to OOP.genruntimeconfig.cache
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/02. Intro to OOP - Class, Access Modifiers, Encapsulation, Inheritance, Polymorphism/obj/Debug/net10.0/ref/2. Intro to OOP.dll
