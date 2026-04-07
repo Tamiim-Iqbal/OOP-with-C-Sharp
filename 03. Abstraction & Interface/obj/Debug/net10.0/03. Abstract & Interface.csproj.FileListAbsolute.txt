@@ -1,0 +1,15 @@
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/03. Abstract & Interface/bin/Debug/net10.0/03. Abstract & Interface
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/03. Abstract & Interface/bin/Debug/net10.0/03. Abstract & Interface.deps.json
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/03. Abstract & Interface/bin/Debug/net10.0/03. Abstract & Interface.runtimeconfig.json
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/03. Abstract & Interface/bin/Debug/net10.0/03. Abstract & Interface.dll
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/03. Abstract & Interface/bin/Debug/net10.0/03. Abstract & Interface.pdb
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/03. Abstract & Interface/obj/Debug/net10.0/03. Abstract & Interface.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/03. Abstract & Interface/obj/Debug/net10.0/03. Abstract & Interface.AssemblyInfoInputs.cache
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/03. Abstract & Interface/obj/Debug/net10.0/03. Abstract & Interface.AssemblyInfo.cs
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/03. Abstract & Interface/obj/Debug/net10.0/03. Abstract & Interface.csproj.CoreCompileInputs.cache
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/03. Abstract & Interface/obj/Debug/net10.0/03. Abstract & Interface.sourcelink.json
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/03. Abstract & Interface/obj/Debug/net10.0/03. Abstract & Interface.dll
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/03. Abstract & Interface/obj/Debug/net10.0/refint/03. Abstract & Interface.dll
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/03. Abstract & Interface/obj/Debug/net10.0/03. Abstract & Interface.pdb
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/03. Abstract & Interface/obj/Debug/net10.0/03. Abstract & Interface.genruntimeconfig.cache
+/Users/tamimiqbal/Tamim/Code 2026/Job-Interview-Preparation/01. OOP-with-C#/03. Abstract & Interface/obj/Debug/net10.0/ref/03. Abstract & Interface.dll
